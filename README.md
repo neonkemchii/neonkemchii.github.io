@@ -1,10 +1,7 @@
-# neonkemchii.github.io
+# neonkemchii.github.io/index
 A game that was made in an online class. May have some issues when loading.
-Make sure you add in /index.html on the end of the link for it to load.
-Ex:neonkemchii.github.io/index.html.
 
 Feel free to modify the game to your own manner!
-
 
 UPDATES ARE COMING SOON!
 Yup, I'm making this an acutal game that anyone can play on any device with some unique game mechanics that can add more opportunities for modders to mess around with.
